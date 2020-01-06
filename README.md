@@ -1,2 +1,2 @@
 # AssImp.jl
-Julia interface to the Open Asset Import Library (AssImp)
+Julia interface to the Open *Ass*et *Imp*ort Library (AssImp)
