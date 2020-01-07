@@ -1,0 +1,7 @@
+name = "AssImp"
+uuid = "24f75710-a85c-45fe-8292-c3084ce9e5c1"
+authors = ["Michael 'Jamie' Schnaitter"]
+version = "0.1.0"
+
+[deps]
+Clang = "40e3b903-d033-50b4-a0cc-940c62c95e31"
